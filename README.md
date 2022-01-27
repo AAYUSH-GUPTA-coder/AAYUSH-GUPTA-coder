@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aayush Gupta aka @AAYUSH-GUPTA-coder 
 - 👀 I’m interested in learning new technology and Implementing it
-- 🌱 I’m currently learning JAVA and Blockchain Technology
+- 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on Blockchain Technology
 - 📫 How to reach me guptaaayush432@gmail.com
 
