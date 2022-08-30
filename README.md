@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Gupta</h1>
-<h3 align="center">Solidity Developer doing Full Stack Development. Chainlink Community Advocate, Member @Developer_DAO, Contributor @LearnWeb3DAO.</h3>
+<h3 align="center">Solidity Developer doing Full Stack Development. Chainlink Community Advocate, Contributor @Developer_DAO, @LearnWeb3DAO, EDEN Protocol.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush-gupta-coder&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-gupta-coder" /> </p>
 
