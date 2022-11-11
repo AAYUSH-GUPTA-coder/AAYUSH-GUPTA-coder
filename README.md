@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently looking for **Web3 Dev / DevRel Role**
 
-<h3 align="left">My Articles:</h3>
+<h3 align="left">Latest Blogs and Tutorials</h3>
 
 - <a href="https://dev.to/aayushguptacoder/how-to-create-and-deploy-an-erc-1155-nft-bundle-collection-489i" target="blank">How to Create and Deploy an ERC-1155 NFT Bundle Collection</a>
 
