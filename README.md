@@ -36,6 +36,7 @@
 <a href="https://twitter.com/aayush_gupta_ji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayush_gupta_ji" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aayush-gupta-20023b183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush-gupta-20023b183/" height="30" width="40" /></a>
 <a href="https://medium.com/@guptaaayush432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@guptaaayush432" height="30" width="40" /></a>
+<a href="https://aayushguptaji.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@guptaaayush432" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
