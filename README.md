@@ -15,7 +15,9 @@
 
 - 📫 How to reach me **guptaaayush432@gmail.com**
 
-- 📄 Resume [https://buttercup-bard-08b.notion.site/GM-I-am-Aayush-Gupta-985800e316f4448aae5d5d88b01a164d](https://buttercup-bard-08b.notion.site/GM-I-am-Aayush-Gupta-985800e316f4448aae5d5d88b01a164d)
+- 📄 Resume [Notion Resume](https://buttercup-bard-08b.notion.site/GM-I-am-Aayush-Gupta-985800e316f4448aae5d5d88b01a164d)
+
+- 📄 Resume [PDF Resume](https://gateway.pinata.cloud/ipfs/QmZbaxfAsht59CExwJKShjqd5DNQpDznTUzixfYSRiLr1q)
 
 - 🌱 I’m currently looking for **Web3 Dev / DevRel Role**
 
