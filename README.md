@@ -26,9 +26,9 @@
 - <a href="https://dev.to/aayushguptacoder/how-to-create-and-deploy-an-erc-1155-nft-bundle-collection-489i" target="blank">How to Create and Deploy an ERC-1155 NFT Bundle Collection</a>
 
 - <a href="https://dev.to/aayushguptacoder/how-to-migrate-dapp-from-rinkeby-to-mumbai-460j" target="blank">How To Migrate Dapp from Rinkeby to Mumbai</a>
+- <a href="https://aayushguptaji.hashnode.dev/how-to-build-custom-erc-1155-nft-collection-using-thirdweb" target="blank">How to Build custom ERC-1155 NFT Collection using ThirdWeb</a>
 - <a href="https://aayushguptaji.hashnode.dev/what-is-rpc-node-why-devs-should-use-decentralized-node-providers" target="blank">What is RPC Node? Why Devs should use Decentralized Node Providers?</a>
 - <a href="https://medium.com/@guptaaayush432/how-to-verify-smart-contract-with-libraries-on-polygonscan-4b5f399c00c7" target="blank">How to verify Smart Contract with libraries on Polygonscan</a>
-- <a href="https://aayushguptaji.hashnode.dev/how-to-build-custom-erc-1155-nft-collection-using-thirdweb" target="blank">How to Build custom ERC-1155 NFT Collection using ThirdWeb</a>
 - <a href="https://medium.com/@guptaaayush432/building-a-full-stack-nft-marketplace-on-ethereum-with-rinkeby-6281a7e07f2" target="blank">Building a Full Stack NFT Marketplace on Ethereum with Rinkeby</a>
 - <a href="https://medium.com/@guptaaayush432/what-and-why-you-need-to-know-about-non-fungible-tokens-nfts-30256c12129" target="blank">What And WHY You Need To Know About Non-Fungible Tokens (NFTs)</a>
 
