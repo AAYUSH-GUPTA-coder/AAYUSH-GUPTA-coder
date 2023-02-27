@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Gupta</h1>
-<h3 align="center">Hybrid Smart Contract Developer | Blockchain Developer | Technical Writer | QuickNode Ambassador | Chainlink Community Advocate | Contributor @Developer_DAO, @LearnWeb3DAO, EDEN Protocol | Looking for Web3 Dev / DevRel Role </h3>
+<h3 align="center">Hybrid Smart Contract Developer LightHouse | Blockchain Developer | Technical Writer | QuickNode Ambassador | Chainlink Community Advocate | Contributor @Developer_DAO, @LearnWeb3DAO, EDEN Protocol </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush-gupta-coder&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-gupta-coder" /> </p>
 
