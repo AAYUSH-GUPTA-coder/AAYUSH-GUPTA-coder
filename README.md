@@ -27,6 +27,7 @@
 
 - <a href="https://dev.to/aayushguptacoder/how-to-create-and-deploy-an-erc-1155-nft-bundle-collection-489i" target="blank">How to Create and Deploy an ERC-1155 NFT Bundle Collection</a>
 
+- <a href="https://aayushguptaji.hashnode.dev/how-to-build-an-nft-gallery-using-quicknodes-graphql-nft-api" target="blank">How to Build an NFT Gallery Using QuickNode's GraphQL NFT API</a>
 - <a href="https://aayushguptaji.hashnode.dev/what-is-rpc-node-navigating-the-world-of-rpc-nodes-and-node-providers" target="blank">What is RPC Node? Navigating the World of RPC Nodes and Node Providers</a>
 - <a href="https://blog.developerdao.com/how-to-build-an-nft-market-dashboard-using-quicknodes-graphql-nft-api" target="blank">How to Build an NFT Market Dashboard Using QuickNode's GraphQL NFT API</a>
 - <a href="https://aayushguptaji.hashnode.dev/automate-your-smart-contract-with-gelato" target="blank">How to Automate your Smart Contract with Gelato</a>
