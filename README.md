@@ -31,6 +31,7 @@
 - <a href="https://aayushguptaji.hashnode.dev/what-is-rpc-node-navigating-the-world-of-rpc-nodes-and-node-providers" target="blank">What is RPC Node? Navigating the World of RPC Nodes and Node Providers</a>
 - <a href="https://blog.developerdao.com/how-to-build-an-nft-market-dashboard-using-quicknodes-graphql-nft-api" target="blank">How to Build an NFT Market Dashboard Using QuickNode's GraphQL NFT API</a>
 - <a href="https://aayushguptaji.hashnode.dev/automate-your-smart-contract-with-gelato" target="blank">How to Automate your Smart Contract with Gelato</a>
+- <a href="https://aayushguptaji.hashnode.dev/how-to-migrate-dapp-from-goerli-to-sepolia-using-quicknode" target="blank">How To Migrate Dapp from Goerli to Sepolia using QuickNode</a>
 - <a href="https://aayushguptaji.hashnode.dev/how-to-build-your-first-datadao-factory-on-fvm" target="blank">How to build your first DataDAO Factory on FVM </a>
 - <a href="https://aayushguptaji.hashnode.dev/create-nft-smart-contract-with-thirdweb-and-chainlink" target="blank">Create NFT Smart Contract with thirdweb and Chainlink</a>
 - <a href="https://dev.to/aayushguptacoder/how-to-migrate-dapp-from-rinkeby-to-mumbai-460j" target="blank">How To Migrate Dapp from Rinkeby to Mumbai</a>
