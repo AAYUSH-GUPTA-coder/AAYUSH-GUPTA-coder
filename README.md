@@ -17,9 +17,9 @@
 
 - 📄 Resume [Notion Resume](https://buttercup-bard-08b.notion.site/GM-I-am-Aayush-Gupta-985800e316f4448aae5d5d88b01a164d)
 
-- 📄 DevRel Resume [PDF Resume](https://gateway.pinata.cloud/ipfs/QmSaBQoMos82TTEww1bG8MAKnHpA7MvLeMAoxRbemhMqER)
+- 📄 DevRel Resume [PDF Resume](https://gateway.pinata.cloud/ipfs/QmWiGVAWBcCqtycYkAc2uZvetMdHz8sXdrQSp5v1hEUUYZ)
 
-- 📄 Smart Contract Developer Resume [PDF Resume](https://gateway.pinata.cloud/ipfs/QmfDAd3vy6C3MDWmqbzBspfr4ZjWq9jcByTVtEGbgvQnwv)
+- 📄 Smart Contract Developer Resume [PDF Resume](https://gateway.pinata.cloud/ipfs/QmWSUauxUbZPuxdNuwDwWhyAXR6gk6B1G5B3JJz7TEUbZy)
 
 - 📄 Techniacl Writer Resume [PDF Resume](https://gateway.pinata.cloud/ipfs/Qmf5N6ix8MengrbdB1cmoDCJPTNnEe7zRY6vXAbTMj2hfM)
 
