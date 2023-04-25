@@ -21,6 +21,8 @@
 
 - 📄 Smart Contract Developer Resume [PDF Resume](https://gateway.pinata.cloud/ipfs/QmfDAd3vy6C3MDWmqbzBspfr4ZjWq9jcByTVtEGbgvQnwv)
 
+- 📄 Techniacl Writer Resume [PDF Resume](https://gateway.pinata.cloud/ipfs/Qmf5N6ix8MengrbdB1cmoDCJPTNnEe7zRY6vXAbTMj2hfM)
+
 - 🌱 I’m currently looking for **Web3 Dev / DevRel Role**
 
 <h3 align="left">Latest Blogs and Tutorials</h3>
