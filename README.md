@@ -17,11 +17,11 @@
 
 - 📄 Resume [Notion Resume](https://buttercup-bard-08b.notion.site/GM-I-am-Aayush-Gupta-985800e316f4448aae5d5d88b01a164d)
 
-- 📄 DevRel Resume [PDF Resume](https://gateway.pinata.cloud/ipfs/QmWiGVAWBcCqtycYkAc2uZvetMdHz8sXdrQSp5v1hEUUYZ)
+- 📄 DevRel Resume [PDF Resume](https://gateway.lighthouse.storage/ipfs/QmenCTiL9JD9Ed4MqY3SbJLpnzT2LZ5oat5zJ1fUgcsmXG)
 
-- 📄 Smart Contract Developer Resume [PDF Resume](https://gateway.pinata.cloud/ipfs/QmWSUauxUbZPuxdNuwDwWhyAXR6gk6B1G5B3JJz7TEUbZy)
+- 📄 Smart Contract Developer Resume [PDF Resume](https://gateway.lighthouse.storage/ipfs/Qmb39m8cJt8sttnVCHjPy7QPg9EEjfLAmC6T5VKhTTgmMF)
 
-- 📄 Techniacl Writer Resume [PDF Resume](https://gateway.pinata.cloud/ipfs/Qmf5N6ix8MengrbdB1cmoDCJPTNnEe7zRY6vXAbTMj2hfM)
+- 📄 Technical Writer Resume [PDF Resume](https://gateway.lighthouse.storage/ipfs/QmWKkxKWhDjPBvNHw9kkp475z9FQi5kuZbjrykU4temWej)
 
 - 🌱 I’m currently looking for **Web3 Dev / DevRel Role**
 
@@ -33,7 +33,7 @@
 - <a href="https://aayushguptaji.hashnode.dev/how-to-build-an-nft-gallery-using-quicknodes-graphql-nft-api" target="blank">How to Build an NFT Gallery Using QuickNode's GraphQL NFT API</a>
 - <a href="https://aayushguptaji.hashnode.dev/what-is-rpc-node-navigating-the-world-of-rpc-nodes-and-node-providers" target="blank">What is RPC Node? Navigating the World of RPC Nodes and Node Providers</a>
 - <a href="https://blog.developerdao.com/how-to-build-an-nft-market-dashboard-using-quicknodes-graphql-nft-api" target="blank">How to Build an NFT Market Dashboard Using QuickNode's GraphQL NFT API</a>
-- <a href="https://aayushguptaji.hashnode.dev/automate-your-smart-contract-with-gelato" target="blank">How to Automate your Smart Contract with Gelato</a>
+- <a href="https://blog.developerdao.com/automate-your-smart-contract-with-gelato" target="blank">How to Automate your Smart Contract with Gelato</a>
 - <a href="https://aayushguptaji.hashnode.dev/how-to-migrate-dapp-from-goerli-to-sepolia-using-quicknode" target="blank">How To Migrate Dapp from Goerli to Sepolia using QuickNode</a>
 - <a href="https://aayushguptaji.hashnode.dev/how-to-build-your-first-datadao-factory-on-fvm" target="blank">How to build your first DataDAO Factory on FVM </a>
 - <a href="https://aayushguptaji.hashnode.dev/create-nft-smart-contract-with-thirdweb-and-chainlink" target="blank">Create NFT Smart Contract with thirdweb and Chainlink</a>
