@@ -15,13 +15,13 @@
 
 - 📫 How to reach me **guptaaayush432@gmail.com**
 
-- 📄 Resume [Notion Resume](https://buttercup-bard-08b.notion.site/GM-I-am-Aayush-Gupta-985800e316f4448aae5d5d88b01a164d)
-
-- 📄 DevRel Resume [PDF Resume](https://gateway.lighthouse.storage/ipfs/QmenCTiL9JD9Ed4MqY3SbJLpnzT2LZ5oat5zJ1fUgcsmXG)
+- 📄 Resume [Notion Resume](https://buttercup-bard-08b.notion.site/GM-I-am-Aayush-Gupta-985800e316f4448aae5d5d88b01a164d) (Most Updated)
 
 - 📄 Smart Contract Developer Resume [PDF Resume](https://gateway.lighthouse.storage/ipfs/Qmb39m8cJt8sttnVCHjPy7QPg9EEjfLAmC6T5VKhTTgmMF)
 
 - 📄 Technical Writer Resume [PDF Resume](https://gateway.lighthouse.storage/ipfs/QmWKkxKWhDjPBvNHw9kkp475z9FQi5kuZbjrykU4temWej)
+
+- 📄 DevRel Resume [PDF Resume](https://gateway.lighthouse.storage/ipfs/QmenCTiL9JD9Ed4MqY3SbJLpnzT2LZ5oat5zJ1fUgcsmXG)
 
 - 🌱 I’m currently looking for **Web3 Smart Contract Dev / Technical Writer / DevRel Role**
 
