@@ -23,7 +23,7 @@
 
 - 📄 Technical Writer Resume [PDF Resume](https://gateway.lighthouse.storage/ipfs/QmWKkxKWhDjPBvNHw9kkp475z9FQi5kuZbjrykU4temWej)
 
-- 🌱 I’m currently looking for **Web3 Dev / DevRel Role**
+- 🌱 I’m currently looking for **Web3 Smart Contract Dev / Technical Writer / DevRel Role**
 
 <h3 align="left">Latest Blogs and Tutorials</h3>
 
