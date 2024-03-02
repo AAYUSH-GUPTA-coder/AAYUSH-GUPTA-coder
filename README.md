@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aayush Gupta</h1>
-<h3 align="center">Hybrid Smart Contract Developer | Technical Writer | @QuickNode Ambassador | @Chainlink Community Advocate | Contributor @Developer_DAO, @LearnWeb3DAO, EDEN Protocol | ex @lighthouse-web3 | Looking for Job </h3>
+<h3 align="center">Hybrid Smart Contract Developer | Technical Writer | @QuickNode Ambassador | @Chainlink Developer Expert | Contributor @Developer_DAO, @LearnWeb3DAO, EDEN Protocol | Building something crazy on defi | ex @lighthouse-web3 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush-gupta-coder&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-gupta-coder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayush-gupta-coder" alt="aayush-gupta-coder" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/aayush_gupta_ji" target="blank"><img src="https://img.shields.io/twitter/follow/aayush_gupta_ji?logo=twitter&style=for-the-badge" alt="aayush_gupta_ji" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity and Full Stack Web3 Development**
+- 🌱 I’m currently learning **Solidity and Everything around EVM Smart contract**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AAYUSH-GUPTA-coder](https://github.com/AAYUSH-GUPTA-coder)
 
