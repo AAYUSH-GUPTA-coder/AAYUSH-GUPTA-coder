@@ -17,7 +17,7 @@
 
 - 📄 Resume [Notion Resume](https://buttercup-bard-08b.notion.site/GM-I-am-Aayush-Gupta-985800e316f4448aae5d5d88b01a164d) (Most Updated)
 
-- 📄 Resume [PDF Resume](https://coral-short-krill-452.mypinata.cloud/ipfs/QmYAV8cV1tbTP9Jo5zRGk6NWUxWm6z4mmrYCSbQT9J5o2J)
+- 📄 Resume [PDF Resume](https://quicknode.quicknode-ipfs.com/ipfs/QmYAV8cV1tbTP9Jo5zRGk6NWUxWm6z4mmrYCSbQT9J5o2J)
 
 - 🌱 I’m currently looking for **Web3 Smart Contract Dev / Technical Writer / DevRel Role**
 
