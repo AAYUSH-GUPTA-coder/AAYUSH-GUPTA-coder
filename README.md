@@ -25,9 +25,9 @@
 
 - <a href="https://aayushguptaji.hashnode.dev/build-a-private-payment-system-using-inco-network" target="blank">Build a Private Payment System Using INCO Network</a>
 - <a href="https://www.quicknode.com/guides/ethereum-development/smart-contracts/how-to-use-erc-4626-with-your-smart-contract/" target="blank">How to Use ERC-4626 with Your Smart Contract</a>
-- <a href="https://www.cyfrin.io/glossary/consensus-algorithm" target="blank">Cyfrin's Consensus Algorithm</a>
-- <a href="https://www.cyfrin.io/glossary/state" target="blank">Cyfrin's Blockchain State</a>
-- <a href="https://www.cyfrin.io/glossary/keccak256" target="blank">Cyfrin's keccak256</a>
+- <a href="https://www.cyfrin.io/glossary/consensus-algorithm" target="blank">Consensus Algorithm</a>
+- <a href="https://www.cyfrin.io/glossary/state" target="blank">Blockchain State</a>
+- <a href="https://www.cyfrin.io/glossary/keccak256" target="blank">keccak256</a>
 - <a href="https://dev.to/aayushguptacoder/how-to-create-and-deploy-an-erc-1155-nft-bundle-collection-489i" target="blank">How to Create and Deploy an ERC-1155 NFT Bundle Collection</a>
 - <a href="https://aayushguptaji.hashnode.dev/build-your-own-nft-collection-using-quicknode-and-optimism" target="blank">Build your own NFT collection using QuickNode and Optimism</a>
 - <a href="https://aayushguptaji.hashnode.dev/how-to-build-an-nft-gallery-using-quicknodes-graphql-nft-api" target="blank">How to Build an NFT Gallery Using QuickNode's GraphQL NFT API</a>
