@@ -17,7 +17,7 @@
 
 - 📄 Resume [Notion Resume](https://buttercup-bard-08b.notion.site/GM-I-am-Aayush-Gupta-985800e316f4448aae5d5d88b01a164d) (Most Updated)
 
-- 📄 Resume [PDF Resume](https://bit.ly/aayush-resume-dev)
+- 📄 Resume [PDF Resume](https://drive.google.com/file/d/1d6BE_ZU0M60IUdku9hsjRUbihPw9PHtJ/view?usp=sharing)
 
 - 🌱 I’m currently looking for **Web3 Smart Contract Dev / Technical Writer / DevRel Role**
 
@@ -25,6 +25,7 @@
 
 - <a href="https://aayushguptaji.hashnode.dev/build-a-private-payment-system-using-inco-network" target="blank">Build a Private Payment System Using INCO Network</a>
 - <a href="https://www.quicknode.com/guides/ethereum-development/smart-contracts/how-to-use-erc-4626-with-your-smart-contract/" target="blank">How to Use ERC-4626 with Your Smart Contract</a>
+- <a href="https://www.cyfrin.io/glossary/consensus-algorithm" target="blank">Cyfrin's Consensus Algorithm</a>
 - <a href="https://www.cyfrin.io/glossary/state" target="blank">Cyfrin's Blockchain State</a>
 - <a href="https://www.cyfrin.io/glossary/keccak256" target="blank">Cyfrin's keccak256</a>
 - <a href="https://dev.to/aayushguptacoder/how-to-create-and-deploy-an-erc-1155-nft-bundle-collection-489i" target="blank">How to Create and Deploy an ERC-1155 NFT Bundle Collection</a>
