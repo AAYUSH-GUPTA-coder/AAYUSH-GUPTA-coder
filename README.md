@@ -25,6 +25,7 @@
 
 - <a href="https://aayushguptaji.hashnode.dev/build-a-private-payment-system-using-inco-network" target="blank">Build a Private Payment System Using INCO Network</a>
 - <a href="https://www.quicknode.com/guides/ethereum-development/smart-contracts/how-to-use-erc-4626-with-your-smart-contract/" target="blank">How to Use ERC-4626 with Your Smart Contract</a>
+- <a href="https://www.cyfrin.io/glossary/data-structures-in-solidity-and-vyper" target="blank">Data structures in Solidity and Vyper</a>
 - <a href="https://www.cyfrin.io/glossary/signature" target="blank">Signature</a>
 - <a href="https://www.cyfrin.io/glossary/smart-contract-metadata" target="blank">Smart Contract Metadata</a>
 - <a href="https://www.cyfrin.io/glossary/bytecode" target="blank">Bytecode</a>
