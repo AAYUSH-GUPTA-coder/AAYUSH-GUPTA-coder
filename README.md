@@ -37,6 +37,7 @@
 - <a href="https://www.cyfrin.io/glossary/public-key" target="blank">Public Key</a>
 - <a href="https://www.cyfrin.io/glossary/address" target="blank">Address</a>
 - <a href="https://www.cyfrin.io/glossary/memory" target="blank">Memory</a>
+- <a href="https://www.cyfrin.io/glossary/storage-solidity" target="blank">Storage</a>
 - <a href="https://dev.to/aayushguptacoder/how-to-create-and-deploy-an-erc-1155-nft-bundle-collection-489i" target="blank">How to Create and Deploy an ERC-1155 NFT Bundle Collection</a>
 - <a href="https://aayushguptaji.hashnode.dev/build-your-own-nft-collection-using-quicknode-and-optimism" target="blank">Build your own NFT collection using QuickNode and Optimism</a>
 - <a href="https://aayushguptaji.hashnode.dev/how-to-build-an-nft-gallery-using-quicknodes-graphql-nft-api" target="blank">How to Build an NFT Gallery Using QuickNode's GraphQL NFT API</a>
