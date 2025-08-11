@@ -19,7 +19,9 @@
 
 - 📄 Smart Contract Resume [PDF Resume](https://docs.google.com/document/d/1Sln2-QEIqQ_dJYcWXE5TKAHJpanrXJFpWizOTUBx8_0/edit?usp=sharing)
 
-- 📄 DevRel Contract Resume [PDF Resume](https://docs.google.com/document/d/193C6nCUKaDppnJQgQp50_udr8NFwPU4VEgZxf8iFHz0/edit?usp=sharing)
+- 📄 DevRel Resume [PDF Resume](https://docs.google.com/document/d/193C6nCUKaDppnJQgQp50_udr8NFwPU4VEgZxf8iFHz0/edit?usp=sharing)
+
+- 📄 Technical Writer Resume [PDF Resume](https://docs.google.com/document/d/1nCx3EZ-4TNSNkx8Qpd93jnVxY7lMcbSzCtO1s4ZwN-w/edit?usp=sharing)
 
 - 🌱 I’m currently looking for **Web3 Smart Contract Dev / Technical Writer / DevRel Role**
 
