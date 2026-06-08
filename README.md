@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/aayush_gupta_ji" target="blank"><img src="https://img.shields.io/twitter/follow/aayush_gupta_ji?logo=twitter&style=for-the-badge" alt="aayush_gupta_ji" /></a> </p>
 
-- 🌱 I’m currently learning ** AI Engineering, Solidity and Everything around EVM Smart contract**
+- 🌱 I’m currently learning **AI Engineering, Solidity and Everything around EVM Smart contract**
   
 - 🤖 Curious about my background? **[Chat with my AI clone](https://aayush-ai-clone.fly.dev/)** - ask it anything about my experience, projects, or what I'm looking for.
 
