@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aayush Gupta</h1>
-<h3 align="center">Hybrid Smart Contract Developer | Technical Writer | @QuickNode Ambassador | @Chainlink Developer Expert | Contributor @Developer_DAO, @LearnWeb3DAO, EDEN Protocol | Building something crazy on defi | ex @lighthouse-web3 </h3>
+
+<h3 align="center">Hybrid Smart Contract Developer | AI Engineer | Technical Writer | Founder @settlex_fi | ex @LighthouseWeb3, @iyk_app, SpreadeFi & more | @QuickNode Ambassador | @Chainlink Developer Expert | Contributor @Developer_DAO, @LearnWeb3DAO, EDEN Protocol | 13x 🏆 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush-gupta-coder&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-gupta-coder" /> </p>
-
-
 
 <p align="left"> <a href="https://twitter.com/aayush_gupta_ji" target="blank"><img src="https://img.shields.io/twitter/follow/aayush_gupta_ji?logo=twitter&style=for-the-badge" alt="aayush_gupta_ji" /></a> </p>
 
