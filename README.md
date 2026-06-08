@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/aayush_gupta_ji" target="blank"><img src="https://img.shields.io/twitter/follow/aayush_gupta_ji?logo=twitter&style=for-the-badge" alt="aayush_gupta_ji" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity and Everything around EVM Smart contract**
+- 🌱 I’m currently learning ** AI Engineering, Solidity and Everything around EVM Smart contract**
+  
+- 🤖 Curious about my background? **[Chat with my AI clone](https://aayush-ai-clone.fly.dev/)** - ask it anything about my experience, projects, or what I'm looking for.
 
 - 👨‍💻 All of my projects are available at [https://github.com/AAYUSH-GUPTA-coder](https://github.com/AAYUSH-GUPTA-coder)
-
-- 💬 Ask me about **Solidity**
 
 - 📫 How to reach me **guptaaayush432@gmail.com**
 
@@ -22,7 +22,7 @@
 
 - 📄 Technical Writer Resume [PDF Resume](https://docs.google.com/document/d/1nCx3EZ-4TNSNkx8Qpd93jnVxY7lMcbSzCtO1s4ZwN-w/edit?usp=sharing)
 
-- 🌱 I’m currently looking for **Web3 Smart Contract Dev / Technical Writer / DevRel Role**
+- 🌱 I’m currently looking for **Web3 Smart Contract Dev / AI Engineer / Technical Writer / DevRel Role**
 
 <h3 align="left">Latest Blogs and Tutorials</h3>
 
