@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aayush Gupta</h1>
 
-<h3 align="center">Hybrid Smart Contract Developer | AI Engineer | Technical Writer | Founder @settlex_fi | ex @LighthouseWeb3, @iyk_app, SpreadeFi & more | @QuickNode Ambassador | @Chainlink Developer Expert | Contributor @Developer_DAO, @LearnWeb3DAO | 13x 🏆 </h3>
+<h3 align="center">Hybrid Smart Contract Developer | AI Engineer | Technical Writer </h3>
+
+<h3 align="center">Open to Work </h3>
+
+<h3 align="center"> Founder SettleX | ex LighthouseWeb3, IYK, SpreadeFi & more | QuickNode Ambassador | Chainlink Developer Expert | Contributor Developer_DAO, LearnWeb3DAO | 13x 🏆 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush-gupta-coder&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-gupta-coder" /> </p>
 
@@ -23,6 +27,31 @@
 - 📄 Technical Writer Resume [PDF Resume](https://docs.google.com/document/d/1nCx3EZ-4TNSNkx8Qpd93jnVxY7lMcbSzCtO1s4ZwN-w/edit?usp=sharing)
 
 - 🌱 I’m currently looking for **Web3 Smart Contract Dev / AI Engineer / Technical Writer / DevRel Role**
+
+<h3 align="left">Projects</h3>
+
+- <a href="https://settlex.fi/" target="blank">SettleX.fi</a> Is the CLS of crypto, a cross-chain clearing and settlement layer purpose-built for institutions. We reduce bridging and rebalancing costs for intent and solver networks, market makers, and liquidity providers through netting.
+
+  Our infrastructure is chain-agnostic, confidential, and compliant, eliminating the need to move gross capital across bridges.
+
+  Traction:
+  
+  • Commercial: Signed LOIs with 2 leading solver networks that collectively bridge over $10B annually.
+  
+  • Validation: Winner of Axelar Infinity Quest. Finalist at Base Batches. Runner-up at QuickNode Accelerator.
+  
+  • Grants: Axelar and Base.
+  
+  • Partners: Concero, Axelar, Avail, Fairblock, Forta.
+  
+
+- <a href="https://aayush-ai-clone.fly.dev/" target="blank">Aayush AI Clone</a> Aayush AI Clone is an open source RAG powered AI assistant that can answer questions about my experience, projects, achievements, and technical expertise using my own knowledge base. Instead of relying on a fine tuned model, it retrieves only the most relevant information and generates grounded, context aware responses.
+
+- <a href="https://github.com/AAYUSH-GUPTA-coder/tranchehook" target="blank">TrancheHook</a> TrancheHook brings predictable fixed income to Uniswap v4 LPs by separating principal protection from yield generation. It enables risk averse liquidity providers to earn stable, bond-like returns while allowing yield seekers to gain leveraged exposure to swap fees and upside, creating a more capital efficient and flexible liquidity market.
+
+- <a href="https://github.com/AAYUSH-GUPTA-coder/uniswap-v4-hooks-security-cyfrin" target="blank">Uniswap v4 Hooks Security Cyfrin</a> Uniswap v4 Hooks Security Skills is an open source security toolkit for Claude Code that helps developers and auditors systematically review Uniswap v4 hooks for known vulnerability classes. It packages insights from audits, exploits, and best practices into a structured workflow, making hook security reviews faster and more comprehensive.
+
+- <a href="https://github.com/AAYUSH-GUPTA-coder/solidity-common-mistakes-skill" target="blank">Solidity-common-mistakes-skill</a> solidity-common-mistakes is an open source AI audit skill for Claude Code that systematically reviews Solidity smart contracts against 20 of the most common security, logic, and code quality mistakes. It helps developers catch issues early by producing severity ranked findings with precise locations and actionable fix recommendations.
 
 <h3 align="left">Latest Blogs and Tutorials</h3>
 
